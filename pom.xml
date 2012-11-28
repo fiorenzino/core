@@ -888,4 +888,7 @@
       <url>${forge.scm.url}</url>
    </scm>
 
+   <modules>
+   	<module>indexer</module>
+   </modules>
 </project>
